@@ -28,16 +28,16 @@ A clean and functional **Task Manager web application** built with **HTML, CSS, 
 
 ---
 
-task-manager/
-│
-├── index.html
-├── css/
-│ └── main.css
-│
-├── js/
-│ └── main.js
-│
-└── assets/
+-task-manager/
+-│
+-├── index.html
+-├── css/
+-│ └── main.css
+-│
+-├── js/
+-│ └── main.js
+-│
+-└── assets/
 
 
 ---
